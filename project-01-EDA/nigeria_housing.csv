@@ -1,0 +1,121 @@
+property_id,city,zone,property_type,bedrooms,bathrooms,size_sqm,year_built,age_years,condition,parking_spaces,price_million_naira
+NG1000,Lagos,Lekki,Bungalow,2,2,139,2022,2,Good,0,48.1
+NG1001,Lagos,Lekki,Flat,2,2,139,2022,2,Good,2,30.72
+NG1002,Kano,Tarauni,Flat,3,2,158,2011,13,Good,1,7.29
+NG1003,Ibadan,Bodija,Bungalow,4,3,255,2019,5,Fair,2,14.32
+NG1004,Ibadan,Bodija,Semi-Detached,5,4,299,2007,17,Fair,0,26.27
+NG1005,Port Harcourt,GRA Phase 1,Duplex,3,2,203,2010,14,New,1,73.42
+NG1006,Port Harcourt,Old GRA,Flat,4,4,229,2017,7,Good,1,44.62
+NG1007,Kano,Bompai,Bungalow,,2,170,2017,7,New,1,9.94
+NG1008,Kano,Sharada,Bungalow,5,4,303,2009,15,Good,1,13.78
+NG1009,Kano,Kabuga,Bungalow,4,3,222,2009,15,Needs Renovation,2,7.58
+NG1010,Lagos,Lekki,Duplex,5,4,288,2017,7,Good,2,134.69
+NG1011,Ibadan,Agodi,Bungalow,5,5,358,2013,11,New,1,26.41
+NG1012,Ibadan,Jericho,Detached House,2,2,125,2014,10,New,2,34.75
+NG1013,Abuja,Gwarinpa,Duplex,4,3,212,2008,16,New,1,161.02
+NG1014,Port Harcourt,GRA Phase 2,Flat,4,4,220,2007,17,Good,2,37.68
+NG1015,Abuja,Jabi,Detached House,2,1,167,2022,2,Good,1,-5.0
+NG1016,Ibadan,Oluyole,Bungalow,4,3,193,2012,12,Needs Renovation,0,10.93
+NG1017,Kano,Kabuga,Duplex,1,1,74,2012,12,Good,0,12.98
+NG1018,Port Harcourt,GRA Phase 1,Semi-Detached,2,1,161,2009,15,Good,2,42.77
+NG1019,Abuja,Wuse II,Detached House,1,1,121,2016,8,Good,2,63.91
+NG1020,Lagos,Ajah,Flat,3,2,203,2012,12,New,1,43.97
+NG1021,Ibadan,Jericho,Detached House,2,1,103,2019,5,Good,2,23.11
+NG1022,Kano,Nassarawa,Flat,2,1,171,2011,13,Good,2,8.06
+NG1023,Abuja,Wuse II,Flat,2,1,152,2022,2,good,2,17.86
+NG1024,Port Harcourt,GRA Phase 2,Flat,3,3,179,2021,3,New,2,33.98
+NG1025,Kano,Nassarawa,Duplex,4,4,264,2017,7,New,0,35.65
+NG1026,Kano,Bompai,Semi-Detached,4,4,268,2015,9,New,1,21.97
+NG1027,Port Harcourt,GRA Phase 2,Bungalow,2,1,148,2007,17,Needs Renovation,0,16.0
+NG1028,Kano,Nassarawa,Flat,4,3,210,2007,17,Good,1,9.63
+NG1029,Abuja,Wuse II,Semi-Detached,4,4,304,2014,10,Fair,0,88.11
+NG1030,Abuja,Gwarinpa,Flat,4,4,218,2011,13,New,1,57.84
+NG1031,Port Harcourt,D-Line,Detached House,1,1,,2013,11,Fair,0,25.66
+NG1032,Abuja,Jabi,Bungalow,3,2,167,2008,16,Good,0,67.13
+NG1033,Abuja,Garki,Flat,4,4,218,2006,18,Fair,1,35.69
+NG1034,Lagos,Surulere,Duplex,5,5,292,2009,15,Good,1,139.05
+NG1035,Abuja,Wuse II,Flat,3,2,221,2013,11,Good,1,49.74
+NG1036,Lagos,Ikeja,Flat,2,2,190,2016,8,Needs Renovation,1,20.61
+NG1037,Abuja,Asokoro,Flat,3,2,147,2013,11,Good,1,47.05
+NG1038,Ibadan,Oluyole,Semi-Detached,1,1,106,2010,14,Fair,2,12.39
+NG1039,Port Harcourt,GRA Phase 1,Flat,3,2,219,2008,16,Needs Renovation,2,18.17
+NG1040,Abuja,Gwarinpa,Flat,1,1,111,2007,17,Needs Renovation,1,14.17
+NG1041,Lagos,Ajah,Bungalow,5,4,286,2014,10,Fair,2,49.23
+NG1042,Ibadan,Oluyole,Detached House,4,3,268,2005,19,Good,1,34.14
+NG1043,Ibadan,Agodi,Semi-Detached,3,2,184,2021,3,Fair,2,22.01
+NG1044,Abuja,Jabi,Flat,4,,188,2014,10,Fair,1,45.82
+NG1045,Abuja,Maitama,Flat,3,3,210,2023,1,Good,1,52.72
+NG1046,Ibadan,Iyaganku,Detached House,2,2,149,2018,6,Good,1,23.81
+NG1047,Kano,Fagge,Flat,1,1,108,2021,3,Good,2,5.76
+NG1048,Ibadan,Agodi,Semi-Detached,4,3,282,2020,4,Needs Renovation,2,15.52
+NG1049,Abuja,Jabi,Bungalow,5,5,281,2007,17,Needs Renovation,1,38.94
+NG1050,Port Harcourt,Trans-Amadi,Semi-Detached,2,2,143,2009,15,New,1,42.43
+NG1051,Ibadan,Ring Road,Semi-Detached,3,3,186,2017,7,Needs Renovation,2,16.49
+NG1052,Lagos,Yaba,Detached House,1,1,103,2018,6,Needs Renovation,2,37.53
+NG1053,Kano,Kabuga,Duplex,2,1,168,2005,19,Needs Renovation,2,7.26
+NG1054,Ibadan,Oluyole,Duplex,2,2,188,2023,1,Needs Renovation,2,14.59
+NG1055,Lagos,Ajah,Detached House,3,3,151,2017,7,Good,1,92.76
+NG1056,Port Harcourt,Trans-Amadi,Detached House,3,2,203,2020,4,Fair,0,65.06
+NG1057,Lagos,Surulere,Duplex,5,5,308,2012,12,New,1,176.92
+NG1058,Kano,Bompai,Duplex,3,3,196,2019,5,Good,1,22.52
+NG1059,Abuja,Garki,Semi-Detached,2,1,89,2014,10,New,2,87.25
+NG1060,Ibadan,Iyaganku,Duplex,4,4,200,2008,16,New,2,9999.0
+NG1061,Port Harcourt,D-Line,Detached House,1,1,98,2020,4,Fair,0,33.37
+NG1062,Port Harcourt,Old GRA,Detached House,3,3,250,2013,11,Good,2,83.55
+NG1063,Kano,Fagge,Detached House,4,3,221,2007,17,Needs Renovation,1,16.22
+NG1064,Abuja,Wuse II,Semi-Detached,3,3,201,2010,14,Needs Renovation,2,38.4
+NG1065,Port Harcourt,Trans-Amadi,Bungalow,4,4,238,2007,17,Fair,1,37.03
+NG1066,Ibadan,Agodi,Duplex,5,4,257,2007,17,Needs Renovation,1,18.87
+NG1067,Abuja,Gwarinpa,Semi-Detached,3,2,224,2015,9,Fair,1,67.41
+NG1068,Port Harcourt,Trans-Amadi,Bungalow,1,1,70,2022,2,Good,1,21.62
+NG1069,Ibadan,Ring Road,Semi-Detached,1,1,83,2016,8,Fair,1,10.05
+NG1070,Kano,Bompai,Bungalow,1,1,83,2020,4,New,0,10.57
+NG1071,Kano,Tarauni,Detached House,3,2,136,2013,11,Needs Renovation,2,10.26
+NG1072,Lagos,Ikeja,Detached House,4,4,185,2023,1,New,1,138.51
+NG1073,Abuja,Maitama,Semi-Detached,4,4,312,2017,7,Needs Renovation,2,65.59
+NG1074,Port Harcourt,D-Line,Detached House,4,4,238,2011,13,Fair,1,59.51
+NG1075,Lagos,Victoria Island,Duplex,4,4,170,2018,6,Good,2,120.14
+NG1076,Ibadan,Ring Road,Flat,2,1,182,2007,17,Good,1,11.75
+NG1077,Kano,Sharada,Duplex,1,1,84,1850,11,Needs Renovation,1,5.07
+NG1078,Abuja,Gwarinpa,Semi-Detached,3,3,195,2017,7,Fair,1,63.25
+NG1079,Ibadan,Iyaganku,Flat,3,2,204,2005,19,New,0,13.75
+NG1080,Kano,Kabuga,Flat,4,4,268,2020,4,Fair,2,9.09
+NG1081,Port Harcourt,GRA Phase 2,Semi-Detached,5,4,255,2016,8,Needs Renovation,2,40.45
+NG1082,Lagos,Victoria Island,Bungalow,3,2,229,2022,2,Needs Renovation,0,31.62
+NG1083,Port Harcourt,Trans-Amadi,Bungalow,3,3,247,2019,5,New,2,42.34
+NG1084,Kano,Tarauni,Semi-Detached,5,4,311,2011,13,Needs Renovation,1,12.74
+NG1085,Port Harcourt,Rumuola,Detached House,1,1,87,2014,10,New,2,43.37
+NG1086,Ibadan,Bodija,Duplex,3,3,194,2020,4,New,1,38.46
+NG1087,Port Harcourt,Rumuola,Detached House,2,1,132,2017,7,Needs Renovation,1,39.2
+NG1088,Kano,Sharada,Duplex,,1,164,2013,11,New,0,17.32
+NG1089,Port Harcourt,D-Line,Semi-Detached,2,1,175,2016,8,Needs Renovation,1,24.77
+NG1090,Kano,Fagge,Detached House,2,2,165,2012,12,Fair,2,10.59
+NG1091,Ibadan,Oluyole,Detached House,5,5,264,2009,15,Needs Renovation,2,29.93
+NG1092,Port Harcourt,GRA Phase 1,Detached House,4,3,168,2018,6,New,1,96.17
+NG1093,Port Harcourt,Trans-Amadi,Semi-Detached,5,5,362,2022,2,Needs Renovation,2,54.33
+NG1094,Ibadan,Agodi,Flat,2,1,105,2018,6,New,0,15.25
+NG1095,Lagos,Ikeja,Duplex,1,1,62,2014,10,Fair,1,36.84
+NG1096,Abuja,Asokoro,Semi-Detached,4,4,192,2007,17,Needs Renovation,2,59.23
+NG1097,Kano,Sharada,Duplex,4,4,237,2013,11,Needs Renovation,2,11.5
+NG1098,Lagos,Ikeja,Bungalow,1,1,119,2023,1,Good,1,36.37
+NG1099,Ibadan,Oluyole,Bungalow,2,2,165,2008,16,Needs Renovation,1,7.03
+NG1100,Port Harcourt,D-Line,Bungalow,1,1,54,2023,1,Fair,0,21.96
+NG1101,Ibadan,Ring Road,Duplex,2,2,150,2009,15,Fair,0,19.31
+NG1102,Lagos,Surulere,Detached House,4,3,258,2007,17,New,1,135.28
+NG1103,Ibadan,Jericho,Duplex,4,3,278,2013,11,Good,1,31.39
+NG1104,Ibadan,Ring Road,Bungalow,3,3,155,2017,7,New,2,21.71
+NG1105,Ibadan,Bodija,Bungalow,3,2,211,2023,1,New,2,27.41
+NG1106,Port Harcourt,GRA Phase 1,Duplex,1,1,102,2007,17,Needs Renovation,2,22.78
+NG1107,Port Harcourt,Old GRA,Detached House,2,2,144,2014,10,New,2,62.08
+NG1108,Abuja,Garki,Duplex,3,2,247,2018,6,Needs Renovation,2,60.84
+NG1109,Abuja,Wuse II,Flat,4,3,305,2006,18,Needs Renovation,1,24.47
+NG1110,Ibadan,Jericho,Bungalow,5,4,315,2006,18,New,2,26.81
+NG1111,Lagos,Ikeja,Flat,5,5,232,2012,12,Good,1,64.08
+NG1112,Abuja,Maitama,Semi-Detached,4,4,283,2015,9,Good,1,112.24
+NG1113,Kano,Nassarawa,Bungalow,2,1,152,2008,16,Good,0,7.59
+NG1114,Port Harcourt,GRA Phase 2,Semi-Detached,1,1,59,2009,15,Fair,2,23.13
+NG1115,Lagos,Ikeja,Detached House,4,4,270,2012,12,Fair,2,74.14
+NG1116,Kano,Tarauni,Detached House,1,1,123,2018,6,New,0,16.81
+NG1117,Ibadan,Bodija,Flat,4,4,174,2013,11,Fair,2,12.76
+NG1118,Kano,Sharada,Bungalow,4,3,270,2018,6,Needs Renovation,0,9.23
+NG1119,Lagos,Ajah,Semi-Detached,3,2,228,2018,6,Good,1,88.56
